@@ -9,5 +9,14 @@ public class ControlarSpringApplication {
     public static void main(String[] args) {
         SpringApplication.run(ControlarSpringApplication.class, args);
     }
+    
+    /*
+     * # Configurações do MongoDB
+#spring.data.mongodb.host=localhost
+#spring.data.mongodb.port=27017
+#spring.data.mongodb.database=dbwebflux
+
+     */
+  
 
 }
